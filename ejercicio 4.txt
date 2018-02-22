@@ -1,0 +1,15 @@
+ejercicio 4
+para qu en esta empresa pueda expresar la realidad descrita,
+primero que todo se debe agregar a la entidad empresa un ID,
+un nombre,una dirección, un telefono; esto para poder diferenciar
+a una empresa de las demas.
+
+los cambios que se deben hacer si todos los productos tienen 
+un promotor asociado, son los siguientes, a la entidad promotor
+se le agrega un nombre, un ID, una cedula; y en la entidad producto 
+se le agrega el ID del vendedor, esto para asociar el vendedor del producto
+(ver grafica. ejercicio 4b).
+
+las otras alternativas que se pueden dar son el resultado de la
+parte mas la grafica orinial
+(ver grafica, ejercicio 4c). 
